@@ -1,0 +1,48 @@
+<!Doctype html>
+<html>
+  <head>
+    <title>
+      Top Mejores Hoteles De Tres Estrellas En Mallorca
+     </title>
+  </head>
+<body>
+  <h1>
+    Mejores Hoteles Tres Estrellas En Mallorca
+  </h1>
+  <table>
+  	<tr>
+    	<td><strong>
+    		Hoteles
+    	</td>
+    	<td><strong>
+    		Porcentaje Según Tivago
+    	</td>
+  	</tr>      
+    <tr>
+    	<td>
+        	Hipotels Cala Millor Park
+        </td>
+        <td>
+        	90%
+        </td>
+    </tr>
+    <tr>
+   		<td>
+       		Grupotel Gran Vista & Spa
+        </td>
+        <td>
+        	88%
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        	Hotel Nixe Palace
+        </td>
+        <td>
+        	85%
+        </td>
+    </tr>
+  </table>
+     
+</body>
+</html>
