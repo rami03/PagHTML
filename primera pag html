@@ -6,9 +6,12 @@
      </title>
   </head>
 <body>
+<div>
   <h1>
     Mejores Hoteles Tres Estrellas En Mallorca
   </h1>
+ </div>
+ <div>
   <table>
   	<tr>
     	<td><strong>
@@ -43,6 +46,27 @@
         </td>
     </tr>
   </table>
-     
+</div>
+
+
+<ol>
+	<li>
+    	<a href "https://www.hipotels.com/hotel-cala-millor-park-en-mallorca.htm"> 
+       Link hotel mejor vodato por clientes
+    	</a>
+   </li>
+   <li>
+    	<a href "http://www.grupotel.com/es/hotel/mallorca/can-picafort/gran-vista-spa/hotel.html"> 
+        Link segundo hotel mejor vodato por clientes
+    	</a>
+    </li>
+    <li>
+    	<a href "http://hotelmallorcanixepalace.com/"> 
+        Link tercer hotel mejor vodato por clientes
+    	</a>
+    </li>
+</ol>
+
+
 </body>
 </html>
